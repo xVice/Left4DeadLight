@@ -1,0 +1,12 @@
+# Itizso ( https://itizso.itch.io )
+# CC BY-NC-ND 4.0
+
+newmtl DocBrownTexture
+Ns 196.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.523338 0.523338 0.523338
+Ks 0.047893 0.047893 0.047893
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd DocBrown.png
